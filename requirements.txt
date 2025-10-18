@@ -10,3 +10,4 @@ streamlit>=1.28.0
 tiktoken
 python-dotenv
 pypdf
+plotly>=5.18.0
