@@ -1,0 +1,21 @@
+employee_id,email,wellness_score,primary_goals,spending_category_breakdown,recommended_actions,linked_accounts_count,last_login_date,wellness_stage,program_interest,score_category
+E1001,user1@company.com,75,Save for Education,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Review budget using 50/20/30 tool,2,2025-10-17,Getting Started,529 Plan,Good
+E1002,user2@company.com,62,Build Emergency Fund,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Increase automatic savings by 5%,4,2025-10-14,Getting Started,Emergency Savings,Fair
+E1003,user3@company.com,81,Reduce Debt,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Review budget using 50/20/30 tool,3,2025-10-15,Getting Started,Emergency Savings,Excellent
+E1004,user4@company.com,82,Save for Education,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Increase automatic savings by 5%,3,2025-10-10,Getting Started,Emergency Savings,Good
+E1005,user5@company.com,90,Improve Credit,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Increase automatic savings by 5%,4,2025-10-17,Achieving,529 Plan,Fair
+E1006,user6@company.com,64,Improve Credit,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Review budget using 50/20/30 tool,4,2025-10-09,Getting Started,Emergency Savings,Good
+E1007,user7@company.com,89,Save for Education,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Review budget using 50/20/30 tool,4,2025-10-05,Achieving,529 Plan,Good
+E1008,user8@company.com,53,Build Emergency Fund,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Connect bank accounts to WellnessPATH,2,2025-10-07,Getting Started,Emergency Savings,Good
+E1009,user9@company.com,65,Build Emergency Fund,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Connect bank accounts to WellnessPATH,1,2025-10-10,Progressing,Debt Management,Fair
+E1010,user10@company.com,69,Reduce Debt,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Increase automatic savings by 5%,2,2025-10-15,Progressing,Emergency Savings,Good
+E1011,user11@company.com,66,Improve Credit,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Increase automatic savings by 5%,4,2025-10-03,Getting Started,529 Plan,Excellent
+E1012,user12@company.com,79,Improve Credit,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Connect bank accounts to WellnessPATH,2,2025-10-15,Progressing,529 Plan,Fair
+E1013,user13@company.com,83,Save for Education,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Connect bank accounts to WellnessPATH,3,2025-10-03,Achieving,529 Plan,Fair
+E1014,user14@company.com,66,Reduce Debt,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Enroll in Candidly Emergency Savings program,3,2025-10-11,Progressing,529 Plan,Excellent
+E1015,user15@company.com,56,Save for Education,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Review budget using 50/20/30 tool,4,2025-10-10,Achieving,Emergency Savings,Excellent
+E1016,user16@company.com,64,Build Emergency Fund,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Increase automatic savings by 5%,2,2025-10-16,Achieving,Emergency Savings,Good
+E1017,user17@company.com,65,Save for Education,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Review budget using 50/20/30 tool,3,2025-10-03,Achieving,Emergency Savings,Fair
+E1018,user18@company.com,85,Save for Education,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Increase automatic savings by 5%,4,2025-10-01,Achieving,529 Plan,Good
+E1019,user19@company.com,71,Build Emergency Fund,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Enroll in Candidly Emergency Savings program,4,2025-10-04,Progressing,529 Plan,Good
+E1020,user20@company.com,63,Reduce Debt,"{""housing"":30,""food"":25,""transport"":15,""savings"":10,""other"":20}",Review budget using 50/20/30 tool,2,2025-10-14,Progressing,529 Plan,Fair

@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(tree:*)",
+      "Bash(git -C \"D:\\MS\\Hackathon\\CodeLinc-2025\" branch -a)",
+      "Bash(git -C \"D:\\MS\\Hackathon\\CodeLinc-2025\" log --oneline --all)",
+      "Bash(git -C \"D:\\MS\\Hackathon\\CodeLinc-2025\" ls-tree:*)",
+      "Bash(git -C:*)",
+      "Bash(find:*)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}

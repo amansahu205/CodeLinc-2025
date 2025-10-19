@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.env
+venv/
+env/
+.git/
+.vscode/
+*.log
+test_*.py

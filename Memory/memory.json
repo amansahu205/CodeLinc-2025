@@ -1,0 +1,30 @@
+{
+  "project": {
+    "name": "CodeLinc-2025",
+    "challenge": "CodeLinc 10 - Coding Challenge",
+    "title": "AI-powered Benefits and Financial Wellness Advisor for Early-Career Talent",
+    "domain": "Financial Wellness & Employee Benefits"
+  },
+  "problem_statement": {
+    "benefits_selection": {
+      "goal": "Guide new employees in choosing benefits",
+      "benefit_types": ["health", "dental", "vision", "employee assistance", "caregiver resources", "tutoring support"],
+      "user_inputs": ["age", "income", "family status"],
+      "ai_function": "Analyze inputs and recommend optimal benefit choices"
+    },
+    "financial_wellness": {
+      "goal": "Educate users on financial basics",
+      "topics": ["budgeting", "emergency savings", "debt management", "long-term financial planning"],
+      "delivery": "Interactive tools for financial literacy"
+    }
+  },
+  "solution_architecture": {
+    "frontend": "ai-financial-login/ - Next.js with TypeScript, TailwindCSS",
+    "backend": "backend/ - Flask REST API with PostgreSQL",
+    "database": "PostgreSQL - users, benefits, plans, selections",
+    "ai_engine": "AWS Bedrock (Claude/Titan) via Flask proxy",
+    "auth": "JWT tokens with secure cookies",
+    "api_endpoints": ["/api/login", "/api/selections", "/api/chat", "/api/enroll"],
+    "features": ["AI recommendations", "Plan comparison", "Cost calculator", "PDF export", "Email enrollment"]
+  }
+}
